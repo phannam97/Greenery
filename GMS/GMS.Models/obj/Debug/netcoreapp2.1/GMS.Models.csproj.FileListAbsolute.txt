@@ -1,9 +1,0 @@
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.deps.json
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.dll
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\bin\Debug\netcoreapp2.1\GMS.Models.pdb
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.csproj.CoreCompileInputs.cache
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.AssemblyInfoInputs.cache
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.AssemblyInfo.cs
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.dll
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.pdb
-E:\Microsoft Visual Studio\Projects\GMS\GMS.Models\obj\Debug\netcoreapp2.1\GMS.Models.csprojAssemblyReference.cache
